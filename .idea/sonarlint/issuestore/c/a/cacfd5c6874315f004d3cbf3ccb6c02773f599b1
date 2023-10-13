@@ -1,0 +1,31 @@
+
+t	java:S127]"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8®“¸¤¯1
+y	java:S127b"XRefactor the code in order to not assign to this loop counter from within the loop body.(«‹ ­şÿÿÿÿ8¯“¸¤¯1
+R
+java:S1141"5Extract this nested try block into a separate method.(¬Ú»Í8ÓÉÎ¢¯1
+x
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(£ì|8ÖÉÎ¢¯1
+y
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¡º‹Å8×ÉÎ¢¯1
+T
+java:S2629%"7Use the built-in formatting to construct this argument.(ÓÊ¯Š8×ÉÎ¢¯1
+P
+java:S3457'"4Lambda should be used to defer string concatenation.(”á8‡ËÎ¢¯1
+Q
+java:S3457+"4Lambda should be used to defer string concatenation.(ñÈ”´8‡ËÎ¢¯1
+t
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(¡›°Ïÿÿÿÿÿ8ˆËÎ¢¯1
+e
+java:S5361d"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ñçŸ¶8ë”¸¤¯1
+e
+java:S5361d"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ñçŸ¶8ë”¸¤¯1
+e
+java:S5361o"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Åñğ8î”¸¤¯1
+e
+java:S5361o"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Åñğ8î”¸¤¯1
+e
+java:S5361z"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‰´‚8ó”¸¤¯1
+e
+java:S5361z"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‰´‚8ô”¸¤¯1
+è
+java:S65411"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 96 to 64, Complexity from 38 to 14, Nesting Level from 4 to 2, Number of Variables from 29 to 6.(¡›°Ïÿÿÿÿÿ8¢ËÎ¢¯1

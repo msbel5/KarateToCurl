@@ -1,0 +1,35 @@
+
+m	java:S127R"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+r	java:S127W"XRefactor the code in order to not assign to this loop counter from within the loop body.(«‹ ­şÿÿÿÿ
+K
+java:S1141#"5Extract this nested try block into a separate method.(¬Ú»Í
+7
+java:S1643b"Use a StringBuilder instead.(ƒ–çÿÿÿÿÿ
+q
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(£ì|
+r
+java:S2629$"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¡º‹Å
+M
+java:S2629,"7Use the built-in formatting to construct this argument.(ÓÊ¯Š
+I
+java:S3457."4Lambda should be used to defer string concatenation.(”á
+J
+java:S34572"4Lambda should be used to defer string concatenation.(ñÈ”´
+m
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(¡›°Ïÿÿÿÿÿ
+^
+java:S5361Y"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ñçŸ¶
+^
+java:S5361Y"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ñçŸ¶
+^
+java:S5361]"HReplace this call to "replaceAll()" by a call to the "replace()" method.(”’È
+^
+java:S5361]"HReplace this call to "replaceAll()" by a call to the "replace()" method.(”’È
+A
+java:S1075b"&Remove this hard-coded path-delimiter.(ƒ–çÿÿÿÿÿ
+c
+java:S5361m"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¦ëÅ¦úÿÿÿÿ
+c
+java:S5361m"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¦ëÅ¦úÿÿÿÿ
+á
+java:S65418"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 80 to 64, Complexity from 28 to 14, Nesting Level from 4 to 2, Number of Variables from 28 to 6.(¡›°Ïÿÿÿÿÿ
